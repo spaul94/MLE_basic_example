@@ -6,6 +6,7 @@ import os
 import sys
 import json
 
+
 # Create logger
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
